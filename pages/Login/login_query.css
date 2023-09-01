@@ -1,0 +1,10 @@
+@media (max-width:50rem) {
+    .content{
+        width: 80%;
+    }
+    .sub{
+        width: 80%;
+        margin-left: 10%;
+    }
+}
+
